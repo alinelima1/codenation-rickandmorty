@@ -1,0 +1,22 @@
+{
+  "name": "codenation-rickandmorty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alinelima1/codenation-rickandmorty.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alinelima1/codenation-rickandmorty/issues"
+  },
+  "homepage": "https://github.com/alinelima1/codenation-rickandmorty#readme",
+  "dependencies": {
+    "jest": "^25.5.4"
+  }
+}
